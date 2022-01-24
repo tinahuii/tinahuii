@@ -129,6 +129,9 @@ p {
   font-weight: 100;
   text-align: center;
   font-size: 15px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 20px;
 }
 
 #projects-container::before {
