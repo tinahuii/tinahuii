@@ -129,26 +129,6 @@ p {
   -o-border-radius: 50%;
 }
 
-#projects-container::after {
-  position: absolute;
-  left: 50%;
-  bottom: 0px;
-  border-radius: 2px;
-  content: '';
-  width: 10px;
-  height: 20px;
-  background-color: #e6e6e6;
-  transform: rotate(45deg) translate(-50%);
-  -webkit-transform: rotate(45deg) translate(-50%);
-  -moz-transform: rotate(45deg) translate(-50%);
-  -ms-transform: rotate(45deg) translate(-50%);
-  -o-transform: rotate(45deg) translate(-50%);
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  -ms-border-radius: 2px;
-  -o-border-radius: 2px;
-}
-
 #hero-nav {
   height: 100%;
   display: flex;
