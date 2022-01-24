@@ -11,6 +11,19 @@ body {
     text-align: center;
     overflow-x: hidden;
   }
+
+
+  /* Avatar and description */
+  
+
+  /* Avatar */
+  .avatar {
+    position: relative;
+    left: -200px;
+    top: -70px;
+    width: 300px;
+    height: auto;
+  }
   
   /* Menu */
   ul { 
